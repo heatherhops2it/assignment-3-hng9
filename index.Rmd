@@ -6,8 +6,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Index page
+# Home
 
 The creator of this website is [Heather "Hopper" Galloway](https://github.com/heatherhops2it), and the collaborator is [Britney Pepper](https://github.com/britney23p).
 
-![This is a Common Grackle (*Quiscalus quiscula*) that I observed in Massachussetts, USA. According to the IUCN, this species is Near Threatened.](https://inaturalist-open-data.s3.amazonaws.com/photos/16615501/large.jpeg)
+![This is a Common Grackle (*Quiscalus quiscula*) that I observed in Massachussetts, USA. According to the IUCN, this species is Near Threatened. (via: [iNaturalist](https://www.inaturalist.org/observations/11631619))](https://inaturalist-open-data.s3.amazonaws.com/photos/16615501/large.jpeg)
