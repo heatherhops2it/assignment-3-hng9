@@ -1,4 +1,4 @@
-output_dir: "."
+name: "Assignment-3-hng9"
 navbar:
   left:
     - text: "Home"
@@ -7,3 +7,4 @@ navbar:
       href: heather.html
     - text: "Britney"
       href: britney.html  
+output_dir: "."
