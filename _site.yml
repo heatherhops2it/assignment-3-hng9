@@ -7,3 +7,9 @@ navbar:
       href: heather.html
     - text: "Britney"
       href: britney.html
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    toc: true 
+    toc_float: true
