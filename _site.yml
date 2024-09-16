@@ -9,7 +9,7 @@ navbar:
       href: britney.html
 output:
   html_document:
-    theme: flatly
+    theme: journal
     highlight: textmate
     toc: true 
     toc_float: true
